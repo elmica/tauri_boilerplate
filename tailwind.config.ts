@@ -1,18 +1,13 @@
 import forms from '@tailwindcss/forms';
 import typography from '@tailwindcss/typography';
 import type { Config } from 'tailwindcss';
-import daisyui from "daisyui"
 
 export default {
-  content: ['./src/**/*.{html,js,svelte,ts}'],
+	content: ['./src/**/*.{html,js,svelte,ts}'],
 
-  theme: {
-    extend: {}
-  },
+	theme: {
+		extend: {}
+	},
 
-	plugins: [typography, forms, daisyui],
-
-	daisyui: {
-		themes: ['valentine']
-	}
+	plugins: [typography, forms]
 } as Config;

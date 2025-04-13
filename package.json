@@ -19,7 +19,7 @@
 		"@tailwindcss/forms": "^0.5.10",
 		"@tailwindcss/typography": "^0.5.16",
 		"autoprefixer": "^10.4.21",
-		"daisyui": "^4.12.24",
+		"daisyui": "^5.0.19",
 		"prettier": "^3.5.3",
 		"prettier-plugin-svelte": "^3.3.3",
 		"svelte": "^5.26.2",
