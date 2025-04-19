@@ -9,7 +9,9 @@ Simple boilerplate for Tauri 2 with Svelte 5 (and DaisyUI) using Bun runtime.
 Modified the following boilerplate:
 <https://github.com/alysonhower/tauri2-svelte5-boilerplate.git>
 
-updated tailwind and DaisyUi
+Also thanks to Scott spence for this cool tutorial to make a theme switching component for DaisyUi v5 and Tailwind v4
+
+<https://scottspence.com/posts/theme-switching-in-sveltekit-updated-for-daisyui-v5-and-tailwind-v4>
 
 ```
 ## Useful commands
@@ -42,3 +44,4 @@ Note: Boilerplate tested on Windows 11 only.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+```
